@@ -44,4 +44,4 @@ dependencies {
 }
 
 // 应用maven脚本
-apply from: '../maven.gradle'
+//apply from: '../maven.gradle'
