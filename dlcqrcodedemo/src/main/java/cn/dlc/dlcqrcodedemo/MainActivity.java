@@ -35,7 +35,7 @@ public class MainActivity extends BaseCommonActivity
     }
 
     @Override
-    protected int getLayoutID() {
+    protected int getLayoutId() {
         return R.layout.activity_main;
     }
 
